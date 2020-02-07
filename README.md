@@ -1,2 +1,2 @@
-# Portfolio Website for Erick Smith
+# Portfolio Website for Alex Romero
 # portfolio
